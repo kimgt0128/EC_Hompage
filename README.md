@@ -1,5 +1,11 @@
 ## EC 34기 홈페이지 제작
 
+<p>
+    <h1>배포링크</h1> 
+    <a href="endless-creation.netlify.app">endless-creation.netlify.app</a>
+</p>
+
+
 ### 1. Home
 <div style="display: flex; gap: 10px; flex-direction: row;">
     <img src="README_image/Home1.png" alt="Home" style="object-fit: contain; height:auto; width: min(550px, 100%);">
@@ -34,7 +40,3 @@
     <img src="README_image/Recruit_mobile1.png" alt="Recruit" style="object-fit: contain;height:300px;">
     <img src="README_image/Recruit_mobile2.png" alt="Recruit" style="object-fit: contain;height:300px;">
 </div
-
-<p>
-    배포링크: <a href="endless-creation.netlify.app">endless-creation.netlify.app</a>
-</p>
